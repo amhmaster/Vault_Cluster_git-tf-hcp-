@@ -1,3 +1,6 @@
+COHs8y22WQMipg.atlasv1.WJF7JbSjBPALCyXxVyY9OFgNeQLqy6aIok92NCJE9M7Uw7Q2vKDWVzCXSDLFQeqX50g
+
+
 #git token
 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
 
@@ -14,6 +17,14 @@ ssh -T git@github.commit
 
 #verify git connection
 git config --list
+
+#HCP Cloud Platform Client ID 
+HCP_CLIENT_ID
+rdOa7mrVq1msh6VCir7JBpuDofrg00dy
+
+#HCP Cloud Platform Client Secret
+HCP_CLIENT_SECRET
+phanUkp2P7FqyAZ8sdfQP_AMpCNHeI95xUFKoTUQ92reUxwaByRxsYrkvC7tLe_m
 
 
 
